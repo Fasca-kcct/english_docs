@@ -1,30 +1,78 @@
-\documentclass[fleqn,11pt]{ltjsarticle}
+\documentclass[xcolor=dvipsnames,unicode,14pt]{beamer}% 'unicode'が必要
+\usepackage{luatexja}% 日本語したい
+\usepackage[ipaex]{luatexja-preset}% IPAexフォントしたい
+\renewcommand{\kanjifamilydefault}{\gtdefault}% 既定をゴシック体に
+\usepackage{times}
 
+% あとは欧文の場合と同じ
+\usetheme{Darmstadt}
 
-\usepackage{pifont}
-\usepackage{enumerate}
-\usepackage{mathtools}
-\usepackage{float}
-\usepackage{lltjext}
-\usepackage{wrapfig}
-\usepackage{booktabs}
-\usepackage{amsmath}
-\usepackage{luatexja}
-\usepackage{graphicx}
-\usepackage[hang,small,bf]{caption}
-\usepackage[subrefformat=parens]{subcaption}
-\captionsetup{compatibility=false}
-\newcommand{\maru}[1]{\raise0.2ex\hbox{\textcircled{\scriptsize{#1}}}}
-\renewcommand{\labelenumi}{\textcircled{\small{	heenumi}}}
+\title{分詞構文(時，理由)}
 
 
 \begin{document}
 
-\title{}
-\author{}
-\date{\today}
-\maketitle
 
+\frame{\maketitle}
+
+\begin{frame}
+  \tableofcontents
+\end{frame}
+\section{分詞構文の基礎}
+\begin{frame}
+  \frametitle{分詞の復習}
+  \begin{block}{分詞}
+    動詞が形を変えて形容詞の働きをするようになったもので，
+    現在分詞と過去分詞の2種類がある。
+    主に形容詞句を作って名詞を修飾する。
+  \end{block}
+  \begin{block}{訳し方}
+    現在分詞の場合，「\textasciitilde している」と訳す。
+    過去分詞の場合，「\textasciitilde された」と訳す。
+  \end{block}
+\end{frame}
+
+\begin{frame}
+  \frametitle{語・句・節}
+  語・句・節とは
+  \pause
+  \begin{description}
+    \item[語] 単語1語1語のこと
+    \item[句] ２つ以上の語が集まりひとつの意味のかたまりを成し，１つの品詞のような働きをするもの
+    \item[節] 意味のひとかたまりの中に主語と述語動詞の関係(S+V)があって、その部分が文として独立していないもの
+  \end{description}
+  \pause
+
+\end{frame}
+\begin{frame}
+  \frametitle{分詞構文とは}
+
+  \begin{block}{分詞構文}
+    分詞が導く句が文を修飾する副詞の働きをするもの
+
+    二つの文を接続詞無しで繋げる
+  \end{block} 
+  \textcolor{NavyBlue}{\underline{Written \textcolor{black}{in plain English}}} , this book is easy to read. 
+
+  わかりやすい英語で書かれているので，この本は読みやすい。
+
+  →分詞が導く句が理由を表している
+
+\end{frame}
+
+\section{分詞構文(理由)}
+\begin{frame}
+  \frametitle{理由を表す分詞構文}
+
+  \textcolor{NavyBlue}{\underline{Having \textcolor{black}{no money}}}, I did'nt see the movie.
+
+  お金がなかったので，私はその映画を観れなかった。
+
+  分詞が作る句がその後の文の理由となっている。
+
+
+
+\end{frame}
 
 
 
