@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2023.1.4)  20 JAN 2023 20:37
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2023.1.4)  22 JAN 2023 13:56
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/frandle/study/english/main
@@ -1242,6 +1242,10 @@ LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
 
 ] [8
 
+] [9
+
+] [10
+
 ]
 \tf@nav=\write6
 
@@ -1256,24 +1260,30 @@ LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FF2386AB517E59A165B6EFC018CFE891;206.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: FF2386AB517E59A165B6EFC018CFE891;206
+(rerunfilecheck)             After:  C020FF65CC9443960138EED29292164B;305.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27505 strings out of 477762
- 156557,953878 words of node,token memory allocated
- 62083 words of node memory still in use:
-   115 hlist, 15 vlist, 81 rule, 1 disc, 8 local_par, 2 math, 198 glue, 365 kern, 29 penalty, 105 glyph, 24611 attribute, 563 glue_spec, 1268 attribute_list, 4 write, 189 user_defined, 123 pdf_literal, 6 pdf_start_link, 6 pdf_end_link, 6 pdf_action, 50 pdf_colorstack nodes
-   avail lists: 1:30,2:20992,3:788,4:703,5:98,6:57,7:1183,8:92,9:793,10:22,11:5
- 46763 multiletter control sequences out of 65536+600000
+ 27512 strings out of 477762
+ 156564,953878 words of node,token memory allocated
+ 53575 words of node memory still in use:
+   108 hlist, 14 vlist, 36 rule, 5 local_par, 132 glue, 362 kern, 17 penalty, 24 glyph, 21024 attribute, 670 glue_spec, 1090 attribute_list, 4 write, 198 user_defined, 137 pdf_literal, 7 pdf_start_link, 7 pdf_end_link, 7 pdf_action, 48 pdf_colorstack nodes
+   avail lists: 1:29,2:26317,3:829,4:733,5:92,6:61,7:1350,8:95,9:864,10:22,11:9
+ 46765 multiletter control sequences out of 65536+600000
  64 fonts using 50523463 bytes
  128i,20n,115p,1808b,1052s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf-dist/fonts/truetype/public/ipaex/ipaexg.ttf>
-Output written on main.pdf (8 pages, 216569 bytes).
+Output written on main.pdf (10 pages, 222395 bytes).
 
-PDF statistics: 388 PDF objects out of 1000 (max. 8388607)
- 317 compressed objects within 4 object streams
- 19 named destinations out of 1000 (max. 131072)
+PDF statistics: 464 PDF objects out of 1000 (max. 8388607)
+ 390 compressed objects within 4 object streams
+ 24 named destinations out of 1000 (max. 131072)
  332 words of extra memory for PDF output out of 10000 (max. 100000000)
 
