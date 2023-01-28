@@ -1,3 +1,4 @@
 \beamer@sectionintoc {1}{分詞構文の基礎}{3}{0}{1}
-\beamer@sectionintoc {2}{分詞構文(理由)}{8}{0}{2}
+\beamer@sectionintoc {2}{分詞構文(理由)}{9}{0}{2}
 \beamer@sectionintoc {3}{分詞構文(時)}{11}{0}{3}
+\beamer@sectionintoc {4}{おまけ}{13}{0}{4}
