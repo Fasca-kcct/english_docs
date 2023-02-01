@@ -1,13 +1,13 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2023.1.4)  31 JAN 2023 18:13
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.17)  1 FEB 2023 12:54
  restricted system commands enabled.
  file:line:error style messages enabled.
-**/home/frandle/study/english/main
-(/home/frandle/study/english/main.tex
+**/home/fasca/dev/english/main
+(/home/fasca/dev/english/main.tex
 LaTeX2e <2021-11-15> patch level 1
 Lua module: luaotfload 2022-03-18 3.21 Lua based OpenType font support
 Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended collection.
-luaotfload | conf : Root cache directory is "/home/frandle/.texlive/texmf-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/fasca/.texlive/texmf-var/luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2022-02-24.lua" from kpse-resolved path "/usr/share/texmf-dist/tex/luatex/luaotfload/fontloader-2022-02-24.lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.119
@@ -16,7 +16,7 @@ Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/home/frandle/.texlive/texmf-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/fasca/.texlive/texmf-var/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -156,7 +156,7 @@ Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 \c@pgfmathroundto@lastzeros=\count283
 ))) (/usr/share/texmf-dist/tex/latex/extsizes/size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/frandle/.texlive/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz) (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+luaotfload | db : Font names database loaded from /home/fasca/.texlive/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz) (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
@@ -775,7 +775,7 @@ LaTeX Info: Redefining \fontshapeforce on input line 954.
 \ltj@@does@alt@set@@inner=\luafunction63
 ) (/usr/share/texmf-dist/tex/luatex/luatexja/patches/lltjdefs.sty
 Package: lltjdefs 2022-01-23 Default font settings of LuaTeX-ja
-(load cache: extra_lmsans10-regular.luc)
+(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmsans10-regular.lua.gz)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmsans10-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 79.
 
@@ -837,7 +837,7 @@ Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 \g__ltjpreset_applycount_int=\count343
  (/usr/share/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec.sty
 Package: luatexja-fontspec 2020-09-14 fontspec support of LuaTeX-ja
-(load cache: extra_lmsans17-regular.luc)
+(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmsans17-regular.lua.gz)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmsans17-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 15.39551pt on input line 16.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
@@ -871,7 +871,7 @@ LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 483.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 483.
- (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)(load cache: extra_lmsans10-bold.luc)
+ (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmsans10-bold.lua.gz)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmsans10-bold.luc)
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <14.4> not available
 (Font)              Font shape `JT3/gt/m/n' tried instead on input line 3901.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
@@ -893,7 +893,7 @@ Package luatexja-fontspec Warning: \addjfontfeature(s) ignored;
 (luatexja-fontspec)                it cannot be used with a font that wasn't
 (luatexja-fontspec)                selected by luatexja-fontspec.
 
-luaotfload | cache : Lookup cache loaded from /home/frandle/.texlive/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load cache: extra_ipaexmincho.luc)(load cache: extra_ipaexgothic.luc)
+luaotfload | cache : Lookup cache loaded from /home/fasca/.texlive/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_ipaexmincho.lua.gz)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_ipaexmincho.luc)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_ipaexgothic.lua.gz)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_ipaexgothic.luc)
 
 Package fontspec Info: Could not resolve font "IPAExGothic/I" (it probably
 (fontspec)             doesn't exist).
@@ -1180,7 +1180,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/phv/b/n --> TU/phv/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/pcr/b/n --> TU/pcr/b/n on input line 13.
-(load cache: extra_lmroman6-regular.luc)
+(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmroman6-regular.lua.gz)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmroman6-regular.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExGothic(0)/m/n' will be
 (Font)              scaled to size 5.77332pt on input line 13.
 LaTeX Font Info:    Font shape `JY3/IPAExGothic(0)/m/n' will be
@@ -1195,7 +1195,7 @@ LaTeX Font Info:    Font shape `JT3/IPAExGothic(0)/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 16.
 LaTeX Font Info:    Font shape `JY3/IPAExGothic(0)/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 16.
-(load cache: extra_lmroman5-regular.luc)
+(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmroman5-regular.lua.gz)(save cache: /home/fasca/.texlive/texmf-var/luatexja/extra_lmroman5-regular.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExGothic(0)/m/n' will be
 (Font)              scaled to size 3.84888pt on input line 16.
 LaTeX Font Info:    Font shape `JY3/IPAExGothic(0)/m/n' will be
@@ -1297,9 +1297,9 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:39,2:32530,3:1247,4:977,5:122,6:79,7:1760,8:133,9:995,10:22,11:52
  46836 multiletter control sequences out of 65536+600000
  66 fonts using 52661399 bytes
- 128i,20n,115p,1808b,1052s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,20n,115p,1804b,1052s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf-dist/fonts/truetype/public/ipaex/ipaexg.ttf>
-Output written on main.pdf (20 pages, 274519 bytes).
+Output written on main.pdf (20 pages, 274512 bytes).
 
 PDF statistics: 1091 PDF objects out of 1200 (max. 8388607)
  986 compressed objects within 10 object streams
